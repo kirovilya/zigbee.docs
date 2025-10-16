@@ -1,0 +1,41 @@
+site_name: Zigbee Wiki
+site_description: Рассказываем про Zigbee
+repo_name: zigbee.docs
+repo_url: https://github.com/kirovilya/zigbee.docs
+
+theme:
+  name: material
+  logo: assets/zigbeer.png
+  favicon: assets/zigbeer.png
+  language: ru
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+  
+nav:
+  - Home:
+    - index.md
+  - Zigbee:
+    - О Zigbee: zigbee.md
+    - Шлюзы: gateways.md
+    - Стики: sticks.md
+  - О нас: about.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - admonition
+  - codehilite
