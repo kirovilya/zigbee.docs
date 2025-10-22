@@ -24,12 +24,10 @@ theme:
         icon: material/brightness-4
   
 nav:
-  - Home:
-    - index.md
-  - Zigbee:
-    - О Zigbee: zigbee.md
-    - Шлюзы: gateways.md
-    - Стики: sticks.md
+  - Home: index.md
+  - Zigbee: zigbee.md
+  - Шлюзы: gateways.md
+  - Стики: sticks.md
   - Устройства: devices.md
   - О нас: about.md
 
