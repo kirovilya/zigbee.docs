@@ -26,8 +26,7 @@ theme:
 nav:
   - Home: index.md
   - Zigbee: zigbee.md
-  - Шлюзы: gateways.md
-  - Стики: sticks.md
+  - Шлюзы и стики: gateways.md
   - Устройства: devices.md
   - О нас: about.md
 
