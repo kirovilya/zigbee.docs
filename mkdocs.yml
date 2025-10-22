@@ -30,6 +30,7 @@ nav:
     - О Zigbee: zigbee.md
     - Шлюзы: gateways.md
     - Стики: sticks.md
+  - Устройства: devices.md
   - О нас: about.md
 
 markdown_extensions:

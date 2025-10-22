@@ -1,1 +1,1 @@
-Мы обитаем тут https://t.me/zigbeer
+[Новостной канал Zigbee-пульс](https://t.me/zigbeat)
