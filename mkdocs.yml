@@ -28,7 +28,7 @@ nav:
   - Zigbee: zigbee.md
   - Шлюзы и стики: gateways.md
   - Устройства: devices.md
-  - О нас: about.md
+#  - О нас: about.md
 
 markdown_extensions:
   - toc:
